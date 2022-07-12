@@ -1,0 +1,485 @@
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\Users\HIEU\source\repos\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csprojAssemblyReference.cache
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLKhachHang.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLNhanVien.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLMatHang.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLDonHang.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CopyComplete
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLCTDonHang.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\EnvDTE.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\stdole.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Report_XuatHoaDon.resources
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.cache
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.compiled
+C:\Users\HIEU\OneDrive\Desktop\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csprojAssemblyReference.cache
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLCTDonHang.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLDonHang.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLKhachHang.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLMatHang.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLNhanVien.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Report_XuatHoaDon.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\EnvDTE.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\stdole.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.MSXML.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.cache
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.compiled
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+C:\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CopyComplete
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\EnvDTE.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\stdole.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.MSXML.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csprojAssemblyReference.cache
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLCTDonHang.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLDonHang.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLKhachHang.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLMatHang.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLNhanVien.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Report_XuatHoaDon.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.cache
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.compiled
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CopyComplete
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\New folder (2)\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.NguoiTH.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\EnvDTE.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\stdole.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csprojAssemblyReference.cache
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.NguoiTH.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLCTDonHang.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLDonHang.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLKhachHang.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLMatHang.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLNhanVien.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Report_XuatHoaDon.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.cache
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.compiled
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CopyComplete
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+D:\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\EnvDTE.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\stdole.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.MSXML.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csprojAssemblyReference.cache
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.NguoiTH.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLCTDonHang.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLDonHang.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLKhachHang.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLMatHang.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLNhanVien.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Report_XuatHoaDon.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.cache
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\RdlCompile.compiled
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CopyComplete
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+C:\abc\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe.config
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.exe
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\QuanLiShopQuanAo.pdb
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.NguoiTH.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLCTDonHang.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLDonHang.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLKhachHang.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLMatHang.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.QLNhanVien.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.XemDanhMuc.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Form1.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.exe
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.pdb
+C:\Users\ADMIN\Desktop\LapTrinhWindow\QuanLiShopQuanAo\QuanLiShopQuanAo\QuanLiShopQuanAo\obj\Debug\QuanLiShopQuanAo.csproj.AssemblyReference.cache
